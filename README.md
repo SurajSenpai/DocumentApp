@@ -68,16 +68,16 @@ This section guides you to build and run the project on **Ubuntu** using **VS Co
 ### Steps
 
 bash
-# Step 1: Open terminal and navigate to the project root directory
+### Step 1: Open terminal and navigate to the project root directory
 cd ~/DocumentApp
 
-# Step 2: Restore project dependencies
+### Step 2: Restore project dependencies
 dotnet restore
 
-# Step 3: Build the project
+### Step 3: Build the project
 dotnet build
 
-# Step 4: Run the project
+### Step 4: Run the project
 dotnet run
 
 --
