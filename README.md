@@ -25,33 +25,33 @@ A modular C# console-based document processor app demonstrating "abstraction", "
 
 ## Folder Structure
 
-DocumentApp/                     <-- Root Project Folder
+DocumentApp/
 │
-├── bin/                         <-- Compiled binaries
-├── obj/                         <-- Temporary object files
+├── bin/ # Compiled binaries
+├── obj/ # Temporary object files
 │
-├── Documents/                   <-- Document-related logic
-│   ├── DocumentFactory.cs       <-- Factory pattern for document creation
-│   ├── DocumentProcessor.cs     <-- Core logic to process documents
-│   ├── ExcelDoc.cs              <-- Excel document implementation
-│   ├── PdfDoc.cs                <-- PDF document implementation
-│   ├── WordDoc.cs               <-- Word document implementation
-│   ├── Interfaces.cs            <-- Interfaces for documents
-│   └── Metadata.cs              <-- Metadata handling for documents
+├── Documents/ # Core document logic
+│ ├── DocumentFactory.cs
+│ ├── DocumentProcessor.cs
+│ ├── ExcelDoc.cs
+│ ├── PdfDoc.cs
+│ ├── WordDoc.cs
+│ ├── Interfaces.cs
+│ └── Metadata.cs
 │
-├── Helpers/                     <-- Utility or helper classes
-│   └── Validator.cs             <-- Validation logic
+├── Helpers/ # Utility classes
+│ └── Validator.cs
 │
-├── Data/                        <-- Data files (CSV, TXT, JSON etc.)
-│   ├── jason.csv
-│   └── Life of pi.txt
+├── Data/ # Sample data files
+│ ├── jason.csv
+│ └── Life of pi.txt
 │
-├── Menu/                        <-- Menu-related operations
-│   └── MenuOperation.cs         <-- Handles menu-based user interaction
+├── Menu/ # Menu interaction
+│ └── MenuOperation.cs
 │
-├── Program.cs                   <-- Entry point of the application
-├── DocumentApp.csproj           <-- Project configuration
-└── DocumentApp.sln              <-- Solution file
+├── Program.cs # Entry point
+├── DocumentApp.csproj # Project configuration
+└── DocumentApp.sln # Solution file
 
 ---
 
