@@ -1,0 +1,14 @@
+/home/suraj/DocumentApp/obj/Debug/net8.0/DocumentApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/suraj/DocumentApp/obj/Debug/net8.0/DocumentApp.AssemblyInfoInputs.cache
+/home/suraj/DocumentApp/obj/Debug/net8.0/DocumentApp.AssemblyInfo.cs
+/home/suraj/DocumentApp/obj/Debug/net8.0/DocumentApp.csproj.CoreCompileInputs.cache
+/home/suraj/DocumentApp/bin/Debug/net8.0/DocumentApp
+/home/suraj/DocumentApp/bin/Debug/net8.0/DocumentApp.deps.json
+/home/suraj/DocumentApp/bin/Debug/net8.0/DocumentApp.runtimeconfig.json
+/home/suraj/DocumentApp/bin/Debug/net8.0/DocumentApp.dll
+/home/suraj/DocumentApp/bin/Debug/net8.0/DocumentApp.pdb
+/home/suraj/DocumentApp/obj/Debug/net8.0/DocumentApp.dll
+/home/suraj/DocumentApp/obj/Debug/net8.0/refint/DocumentApp.dll
+/home/suraj/DocumentApp/obj/Debug/net8.0/DocumentApp.pdb
+/home/suraj/DocumentApp/obj/Debug/net8.0/DocumentApp.genruntimeconfig.cache
+/home/suraj/DocumentApp/obj/Debug/net8.0/ref/DocumentApp.dll
